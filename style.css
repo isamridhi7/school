@@ -1,0 +1,81 @@
+h1{
+color: #4b1e00;
+text-align: center;
+font-size: 90px;
+background-color: yellow;
+border:groove;
+border-width: 7px;
+border-color:gold;
+margin: -7px;
+}
+
+.motto{
+color:#220d01;
+text-align:right;
+font-size: 40px;
+font-family: cursive;
+background-color:yellow;
+margin: -7px;
+}
+
+.content{
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background-color: lavender;
+      
+        border:groove;
+        border-width: 7px;
+        border-color: rgb(71, 151, 255);
+        margin: -8px;
+
+}
+
+.items{
+background-color:rgb(95, 45, 211);
+border-left:solid;
+border-right:solid;
+border-color:rgb(71, 151, 255) ;
+padding: 10px;
+
+}
+
+.schu {
+    border:groove;
+    border-width: 7px;
+    border-color:rgb(46, 1, 1); 
+background-image: url(school.jpg);
+background-color: #cccccc;
+  height: 700px;
+  margin: -9px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+
+}
+.schu p{
+    opacity: 0;
+}
+
+a:link{
+    color: gold
+    }
+    
+    a:visited{
+    color:gold;
+    }
+
+body{
+background-image:url(bgg.png);
+}
+.pea{
+opacity:0;
+
+}
+html{
+border:groove;
+border-width: 9px;
+border-color: rgb(65, 6, 6);
+}
